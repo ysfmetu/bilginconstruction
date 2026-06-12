@@ -284,4 +284,4 @@ const lbStyle = document.createElement('style');
 lbStyle.textContent = `@keyframes fadeInLightbox { from { opacity: 0; } to { opacity: 1; } }`;
 document.head.appendChild(lbStyle);
 
-console.log('✅ Bilgin İnşaat web sitesi yüklendi.');
+console.log('✅ BS60 Yapı web sitesi yüklendi.');
